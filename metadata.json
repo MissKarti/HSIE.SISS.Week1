@@ -1,0 +1,6 @@
+{
+  "name": "The Magic of Bali: History & Origins",
+  "description": "Interactive HSIE Grade 6 lesson application on Balinese history, featuring an interactive timeline, cultural postcard creator, exit-ticket tree of knowledge, and quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
